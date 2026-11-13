@@ -1,4 +1,4 @@
-# JavaScript DOM Projects - Chai aur Code
+# JavaScript DOM Projects 
 
 This repository contains JavaScript DOM manipulation projects built for learning and task submissions.
 
